@@ -3,8 +3,10 @@
 int main()
 
 {
+
 int n, ma, me, i;
 i=1;
+
     while(i<=5)
         {
         printf ("número: ");
